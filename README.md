@@ -1,4 +1,3 @@
-# Java-Calculator
 # Java Calculator Project
 
 ## Overview
